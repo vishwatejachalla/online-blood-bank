@@ -30,7 +30,7 @@ public class JwtAuthorizationFilter<Claims> extends BasicAuthenticationFilter {
 	public JwtAuthorizationFilter(AuthenticationManager authenticationManager) {
 		super(authenticationManager);
 		LOGGER.info("Start");
-		LOGGER.debug("SAI YESWANTH");
+		LOGGER.debug("Viswa Teja");
 		LOGGER.debug("{}: ", authenticationManager);
 	}
 
